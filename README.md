@@ -1,1 +1,1 @@
-# Rock_vs_Mine_Prediction_ML
+# SONAR Rock vs Mine Prediction with Python
